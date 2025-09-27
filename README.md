@@ -1,2 +1,3 @@
-# 22BSCS-MUET-Web-Engineering-Code-CSC-332
-Lab Manuals
+#Python-Development---PITP-II-Batch-1-MUET
+Notes - Coding Exercises - Challenges
+
